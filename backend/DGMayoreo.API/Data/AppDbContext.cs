@@ -33,7 +33,7 @@ public class AppDbContext : DbContext
             Name         = "Admin",
             Username     = "admin",
             // Contraseña: 1234  (hash BCrypt)
-            PasswordHash = BCrypt.Net.BCrypt.HashPassword("1234"),
+            PasswordHash = "$2a$11$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
             Role         = "admin",
             Active       = true,
             CreatedAt    = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),

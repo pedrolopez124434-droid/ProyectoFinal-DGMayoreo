@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DGMayoreo.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b714438187f905d3d1b2b520860762da141a840")]
 [assembly: System.Reflection.AssemblyProductAttribute("DGMayoreo.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DGMayoreo.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

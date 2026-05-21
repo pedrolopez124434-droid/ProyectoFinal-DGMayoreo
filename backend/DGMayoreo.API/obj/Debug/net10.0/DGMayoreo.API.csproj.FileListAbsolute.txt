@@ -168,3 +168,4 @@ C:\Users\diver\Downloads\DGMayoreo\backend\DGMayoreo.API\obj\Debug\net10.0\refin
 C:\Users\diver\Downloads\DGMayoreo\backend\DGMayoreo.API\obj\Debug\net10.0\DGMayoreo.API.pdb
 C:\Users\diver\Downloads\DGMayoreo\backend\DGMayoreo.API\obj\Debug\net10.0\DGMayoreo.API.genruntimeconfig.cache
 C:\Users\diver\Downloads\DGMayoreo\backend\DGMayoreo.API\obj\Debug\net10.0\ref\DGMayoreo.API.dll
+C:\Users\diver\Downloads\DGMayoreo\backend\DGMayoreo.API\obj\Debug\net10.0\DGMayoreo.API.sourcelink.json
